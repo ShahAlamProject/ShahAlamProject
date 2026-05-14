@@ -1,5 +1,6 @@
 # 💫 About Me:
 My Name is Muhammad Jihad Zaidan Al Shareef-Syah<br>I have been studying full stack web development for 3 years.
+Im From Indonesia
 
 
 ## 🌐 Socials:
